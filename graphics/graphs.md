@@ -18,4 +18,3 @@ Analysis of sales by segment.
 The desired regions can be compared within each segment.
 
 ![image](https://user-images.githubusercontent.com/76550825/167255888-a425884a-340c-4a35-b898-5d43e3deb8c7.png)
-
